@@ -1,0 +1,39 @@
+.bg {
+    /* The image used */
+    background-image: url(images/ParkBuilding.jpg);
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.loginHeader {
+    padding-top: 1%;
+    width: 100%;
+}
+
+.loginDiv {
+  position: fixed;
+  top: 45%;
+  left: 45%;
+  margin-top: -60px;
+  margin-left: -100px;
+}
+
+.formLogin {
+    padding: 8%;
+    border: 2px solid #888888;
+    border-radius: 15px;
+    background-color: rgba(211, 211, 211, 0.904);
+}
+.footerLogin {
+    position: fixed;
+    bottom: 20px;
+    margin-left: 45%;
+}
+
+.title {
+    color: rgb(3, 9, 10);
+}

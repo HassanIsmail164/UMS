@@ -1,0 +1,22 @@
+.body {
+    /* background-color: springgreen; */
+    background-image: url(../images/main-bg.jpg);
+    padding: 1%;
+}
+
+.studentHeader {
+    /* background-image: url(../images/main-bg.jpg); */
+    padding: 1%;
+}
+
+.menuFont {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+hr {
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+    border: 0;
+    border-top: 8px solid rgba(0, 0, 0, 0.226);
+}
